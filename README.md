@@ -20,6 +20,9 @@ pip install scrapy
 scrapy crawl amazon
 ```
 - All the product details are scraped successfully.😊
-## 📝 Conclusion
 
-In this project, Scrapy spiders were utilized to efficiently scrape book names, authors, image links, and prices from the Amazon website's book section. The collected data was cleaned and formatted, providing valuable insights into book details and pricing trends. This project demonstrates proficiency in web scraping and data extraction, ensuring reliable and comprehensive data collection while adhering to ethical standards.
+## 📸 Screenshots 
+![image](https://github.com/Siddhi-Naik18/Amazon_WebScraping/assets/139551165/3b4948b2-f855-49d5-8219-3ebba5643d89)
+
+## 📝 Conclusion
+Through comprehensive web scraping using Scrapy, valuable data is extracted from the Amazon website's book section. The process provides a deeper understanding of book names, authors, image links, and pricing trends. This project demonstrates the effectiveness of web scraping for data collection and offers insights into the book market on Amazon, showcasing proficiency in data extraction and handling techniques.
